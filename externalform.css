@@ -1,0 +1,38 @@
+form{ 
+    border: 8px double;
+    text-align: center; 
+    text-transform: capitalize;
+    box-shadow: 0px  3px 0px 3px;
+
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-top: 25px;
+    padding: 20px;
+    background-color: rgb(188, 239, 255);
+    background-image: url(background\ img.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 600px;
+
+    
+    
+}
+label{
+    color: aliceblue;
+}
+
+h1{
+    color: rgb(243, 245, 244);
+    text-decoration: underline;
+    text-align: center;
+    text-transform: capitalize;
+    
+}
+button{
+    width: 200px;
+    margin-left: 100px;
+    color: rgb(1, 14, 15);
+    background-color: rgb(1, 31, 61)  ;
+    border-radius: 5px;
+    border: 1px solid;color: azure;
+}

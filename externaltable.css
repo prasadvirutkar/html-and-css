@@ -1,0 +1,28 @@
+table{
+    border: 2px solid;color: rgb(19, 18, 9);
+   text-transform: capitalize;
+
+   text-align: center;
+   background-color: rgb(252, 52, 17);
+   
+}
+th{
+    border: 2px solid;
+    background-color: rgb(14, 78, 255);
+    text-decoration-line: underline;
+
+    
+    
+}
+td{
+    border: 2px solid;
+    background-color: rgb(90, 216, 18);
+}
+h1{
+    text-transform: capitalize;
+    text-decoration-line: underline;
+    background-color: chartreuse;
+    color: rgb(12, 4, 4);
+    text-align: center;
+    border: 2px solid;
+}
